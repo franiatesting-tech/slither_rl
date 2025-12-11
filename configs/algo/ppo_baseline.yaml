@@ -1,0 +1,3 @@
+algo: ppo
+policy: MlpPolicy
+total_timesteps: 100000

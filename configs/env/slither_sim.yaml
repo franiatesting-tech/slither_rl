@@ -1,0 +1,5 @@
+obs_type: features
+reward:
+  w_len: 1.0
+  w_death: 20.0
+  w_step: 0.001

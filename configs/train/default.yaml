@@ -1,0 +1,2 @@
+env: slither_sim
+algo: ppo_baseline
